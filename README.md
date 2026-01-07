@@ -1,4 +1,4 @@
-# 🔥 Goal Planner App (Dark Mode)
+# 🔥 Goal Planner App 
 
 A modern, dark-themed goal planning and tracking application built with React, TypeScript, and Firebase. Help users set, track, and review goals throughout the year with a clean, minimal interface.
 
